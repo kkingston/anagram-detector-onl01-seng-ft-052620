@@ -6,7 +6,9 @@ class Anagram
   end 
    
   def match(array) 
-    # array = []
+    array = []
+    string.each do |n|
+      n
   end 
    
    
